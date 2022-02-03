@@ -1,6 +1,6 @@
 {
-  "name": "@gilesreece/common",
-  "version": "1.0.2",
+  "name": "@gilesreece2/common",
+  "version": "1.0.0",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "license": "MIT",
